@@ -1,4 +1,4 @@
-# ADM-Submissions
+# ADM-HW1 
 
 This repository contains the files needed for the submission of Homework 1 for the ADM course.
 
